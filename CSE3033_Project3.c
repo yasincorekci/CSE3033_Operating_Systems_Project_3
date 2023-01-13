@@ -28,7 +28,7 @@ void *readThreadFunc(void *arg)
                 {
                     temp[i] = line[i];
                 }
-            }
+	    }
             ts_Queue* currentNode = addLine(line_num, temp);
             currentNode->end_pos=end_pos;
             currentNode->start_pos=start_pos;
