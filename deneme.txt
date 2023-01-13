@@ -1,0 +1,82 @@
+0 opsys
+1 yasin
+2 deneme
+3 merhaba
+4 merhaba
+5 test olayi
+6 para para para
+7 lorem
+8 ipsum
+9 lorem ipsum
+10 adana
+11 bursa
+12 istanbul
+13 ankara
+14 gaziantap
+15 lahana
+16 elma
+17 pırasa ve kavun
+18 sanane
+19 laylaylay
+20 driving a car
+21 flying an airplane
+22 taking a train
+23 riding a bus
+24 cycling
+25 diving in a submarine
+26 flying in a helicopter
+27 flying a kite
+28 traveling
+29 visiting tourist attractions
+30 going for a nature walk
+31 camping
+32 fishing
+33 swimming
+34 diving
+35 taking a vacation
+36 sunbathing on the beach
+37 beautiful weather
+38 warm water
+39 cooling off
+40 beautiful views
+41 beautiful days
+42 swimming pool
+43 surfing
+44 water sports
+45 beautiful memories
+46 making new friends
+47 fun activities
+48 discovering new places
+49 traveling
+50 visiting historical places
+51 cultural events
+52 shopping
+53 experiencing local flavors
+54 discovering new foods
+55 exploring local crafts
+56 watching beautiful sunset views
+57 exploring nature
+58 climbing high mountains
+59 exploring forests
+60 seeing local animals
+61 taking night walks
+62 watching the stars
+63 sitting around a campfire
+64 singing songs
+65 telling stories
+66 playing guitar
+67 listening to music
+68 reading a book
+69 writing
+70 painting
+71 taking photos
+72 making videos
+73 learning new skills
+74 trying new things
+75 discovering new hobbies
+76 exploring new places
+77 discovering local historical sites
+78 exploring local arts events
+79 visiting local museums
+80 discovering local festivals
+81 sona kalan dona kalir
